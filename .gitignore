@@ -2,3 +2,7 @@ env/
 *.jpg
 *.png
 *.gif
+*.jpeg
+*.jpg
+images_zip/
+image_exam/
